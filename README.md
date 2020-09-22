@@ -1,1 +1,2 @@
-# Malice-IoT
+# Malice-IoTOS: Debian Image
+Hardware: BeagleBone Black Wireless
